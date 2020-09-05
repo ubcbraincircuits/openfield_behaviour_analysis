@@ -1,4 +1,4 @@
-% Contributers: Ellen Koch, Ryan Yeung
+% Contributors: Ellen Koch, Ryan Yeung
 
 clc
 clear all
