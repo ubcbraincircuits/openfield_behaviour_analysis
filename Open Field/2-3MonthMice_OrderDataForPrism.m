@@ -1,4 +1,4 @@
-Contributors: Ryan Yeung
+% Contributors: Ryan Yeung
 
 clear
 clc
