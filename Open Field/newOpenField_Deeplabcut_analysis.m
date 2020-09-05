@@ -1,3 +1,5 @@
+Contributors: Ellen Koch, Ryan Yeung
+
 clc
 clear all
 close all
