@@ -1,3 +1,5 @@
+% Contributors: Ryan Yeung
+
 %% Import data from TDT files
 % Ensure you are IN the folder for the trial for this part
 data = TDTbin2mat(uigetdir);
