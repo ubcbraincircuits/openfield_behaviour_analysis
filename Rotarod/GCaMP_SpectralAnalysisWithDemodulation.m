@@ -1,3 +1,5 @@
+% Contributors: Ellen Koch, Ryan Yeung
+
 close all
 clear variables
 clc
